@@ -9,6 +9,6 @@ for i in range(0,len(a)):
             s=s+str(a[i])+" "
             b.remove(b[j])
             break
-print(s)
+print(s.strip())
     
 #count repeated one
