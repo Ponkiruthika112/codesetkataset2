@@ -1,4 +1,5 @@
-n,k=map(int,input().split())
+n=list(map(int,input().split()))
+k=l[-1]
 a=list(map(int,input().split()))
 l=list(set(a))
 s=""
